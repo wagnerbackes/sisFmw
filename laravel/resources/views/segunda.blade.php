@@ -18,6 +18,8 @@
 	<li>resources/views/segunda.blade.php</li>
 </ul>
 </div><!-- Alert -->
+
+Variavél: {{$nome}}
 </div><!-- Container -->
 </body>
 </html>

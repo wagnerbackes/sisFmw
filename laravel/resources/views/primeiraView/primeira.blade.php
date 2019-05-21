@@ -18,6 +18,12 @@
 	<li>resources/views/primeiraView/index.blade.php</li>
 </ul>
 </div><!-- Alert -->
+<hr>
+<h1 class="text-center text-info">Exercício</h1>
+<h3 class="text-center">Façam todas as rotas para uma crud de produtos</h3>
+
+
+
 </div><!-- Container -->
 </body>
 </html>

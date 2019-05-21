@@ -13,4 +13,13 @@ class testeController extends Controller
      public function segundaView(){
  		return view('segunda');
     }
+
+     public function show($nome){
+     	$data =  array('nome'=>$nome);
+ 		return view('segunda', $data);
+    }
+
+      public function terceiraView(){
+ 		return view('terceiraView');
+    }
 }
